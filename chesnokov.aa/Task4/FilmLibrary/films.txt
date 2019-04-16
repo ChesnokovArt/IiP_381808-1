@@ -1,0 +1,4 @@
+3
+name01 prod01 scen01 comp01 12Ð 12.4.2001
+name1 prod1 scen1 comp1 100Ð 12.3.2000
+name2 prod2 scen2 comp2 50Ð 1.2.2000
